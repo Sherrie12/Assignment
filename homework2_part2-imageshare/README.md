@@ -6,9 +6,6 @@ shareimage
 ========
 
 A simple client-side photo sharing site.
-
-
-How does it work?
 -----------------
 The security model of this simple photo sharing app is predicated on having
 locations being unguessable. We construct paths into Firebase using a hash of
